@@ -1,1 +1,5 @@
 Instructions template of the website
+
+Troubleshooting
+-------------------
+Done in sample-branch
