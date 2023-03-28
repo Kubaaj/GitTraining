@@ -1,1 +1,4 @@
 Instructions template of the website
+
+Local changes made here
+-------------------
